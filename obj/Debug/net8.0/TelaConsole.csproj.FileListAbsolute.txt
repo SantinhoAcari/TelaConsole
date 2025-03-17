@@ -1,0 +1,14 @@
+C:\Santinho\C#-DotNet\TelaConsole\bin\Debug\net8.0\TelaConsole.exe
+C:\Santinho\C#-DotNet\TelaConsole\bin\Debug\net8.0\TelaConsole.deps.json
+C:\Santinho\C#-DotNet\TelaConsole\bin\Debug\net8.0\TelaConsole.runtimeconfig.json
+C:\Santinho\C#-DotNet\TelaConsole\bin\Debug\net8.0\TelaConsole.dll
+C:\Santinho\C#-DotNet\TelaConsole\bin\Debug\net8.0\TelaConsole.pdb
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\TelaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\TelaConsole.AssemblyInfoInputs.cache
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\TelaConsole.AssemblyInfo.cs
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\TelaConsole.csproj.CoreCompileInputs.cache
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\TelaConsole.dll
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\refint\TelaConsole.dll
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\TelaConsole.pdb
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\TelaConsole.genruntimeconfig.cache
+C:\Santinho\C#-DotNet\TelaConsole\obj\Debug\net8.0\ref\TelaConsole.dll
